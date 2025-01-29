@@ -4,12 +4,12 @@ This repository contains documentation for the backend of the Airbnb Clone proje
 
 ## Contents
 
-+Features and Functionalities
-++Use Case Diagram
-++User Stories
-++Data Flow Diagram
-++Flowcharts
-++Requirements
++ Features and Functionalities
+++ Use Case Diagram
+++ User Stories
+++ Data Flow Diagram
+++ Flowcharts
+++ Requirements
 
 ## Details the backend features:
 
