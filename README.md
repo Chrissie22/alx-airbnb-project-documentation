@@ -1,9 +1,9 @@
-ALX Airbnb Project Documentation
+# ALX Airbnb Project Documentation
 
 
 This repository contains documentation for the backend of the Airbnb Clone project. It includes features, diagrams, user stories, and technical requirements.
 
-Contents
+## Contents
 
 Features and Functionalities
 Use Case Diagram
