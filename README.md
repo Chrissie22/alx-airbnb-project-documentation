@@ -1,57 +1,62 @@
-# ALX Airbnb Project Documentation
+# **ALX Airbnb Project Documentation**
 
 This repository contains documentation for the backend of the Airbnb Clone project. It includes features, diagrams, user stories, and technical requirements.
 
-## Contents
+---
 
-+ Features and Functionalities
-++ Use Case Diagram
-++ User Stories
-++ Data Flow Diagram
-++ Flowcharts
-++ Requirements
+## **Contents**
 
-## Details the backend features:
+1. [Features and Functionalities](#features-and-functionalities)
+2. [Use Case Diagram](#use-case-diagram)
+3. [User Stories](#user-stories)
+4. [Data Flow Diagram](#data-flow-diagram)
+5. [Flowcharts](#flowcharts)
+6. [Requirements](#requirements)
 
-__User Authentication:__ Register and log in users.
-Property Management: List, update, and search properties.
+---
 
-__Booking System:__ Book and manage reservations.
+## **Features and Functionalities**
+**Details the backend features:**
 
-__Payments:__ Process payments securely.
+- **User Authentication**: Register and log in users.
+- **Property Management**: List, update, and search properties.
+- **Booking System**: Book and manage reservations.
+- **Payments**: Process payments securely.
 
-__File:__ features-and-functionalities/features-and-functionalities.png
+**File** `features-and-functionalities/features-and-functionalities.png`
 
-### Use Case Diagram
+---
 
-+Shows system interactions for:
-++User registration.
-++Property booking.
-++Payments.
+### **Use Case Diagram**
+**Shows system interactions for**:
+- User registration.
+- Property booking.
+- Payments.
 
-### File: use-case-diagram/use-case-diagram.png
+**File:** `use-case-diagram/use-case-diagram.png`
 
-#### User Stories
-+Includes core user actions such as:
-1.Registering an account.
-2.Booking a property.
+## **User Stories**
+**Includes core user actions such as:**
+- Registering an account.
+- Booking a property.
 
-#### File: user-stories/user-stories.md
+**File:** `user-stories/user-stories.md`
 
-###Data Flow Diagram
+## **Data Flow Diagram**
 Illustrates how data moves between users, properties, bookings, and payments.
 
-File: data-flow-diagram/data-flow.png
+**File:** `data-flow-diagram/data-flow.png`
 
-Flowcharts
+## **Flowcharts**
 Shows the steps in backend processes like user registration and booking.
 
-File: flowcharts/data-flow-diagram.png
+**File:** `flowcharts/data-flow-diagram.png`
 
-Requirements
-Technical and functional details for backend features:
+## **Requirements**
+**Technical and functional details for backend features:**
 
-##API endpoints.
-Input/output specifications.
-Validation rules.
-File: requirements.md
+- API endpoints.
+- Input/output specifications.
+- Validation rules.
+  
+**File:** `requirements.md`
